@@ -35,14 +35,7 @@ You can see more about me on my [website](https://issa-kabore.github.io/).
     <a href="https://www.anaconda.com/products/distribution" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="anaconda"  height="30"/> </a> &nbsp;
 </p>
 
-## 🔥 &nbsp;My Stats 
 
-<p >
-    <a href="https://github.com/issa-kabore" target="_blank">
-        <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=issa-kabore&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true&show_owner=true" />
-        <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issa-kabore&layout=compact&theme=vision-friendly-dark"/>
-    </a>
-</p>
 
 
 <!--
@@ -58,4 +51,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+## 🔥 &nbsp;My Stats 
+
+<p >
+    <a href="https://github.com/issa-kabore" target="_blank">
+        <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=issa-kabore&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true&show_owner=true" />
+        <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=issa-kabore&layout=compact&theme=vision-friendly-dark"/>
+    </a>
+</p>
+
 -->
