@@ -18,6 +18,7 @@
 - 🔭 I’m currently interested in data science-related projects, such as machine learning, optimization, MLOps and statistics.
 - :raised_back_of_hand: I’m looking to help with open source projects and research focused on machine learning. Let me a message if you think I can help you.
 - :pencil: I like making some cool functions about data science and python on my Github
+- 📫 How to reach me: On [linkedin](https://www.linkedin.com/in/khalid-kabore2512/)
 
 
 ## 👩‍💻 &nbsp;Tech Skills
