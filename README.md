@@ -37,7 +37,7 @@
   <a href="https://postman.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="postman"  height="30"/> </a> &nbsp;
     <a href="https://www.r-studio.com/fr/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/RStudio_Logo.png/220px-RStudio_Logo.png" alt="r-studio"  height="30"/> </a> &nbsp;
     <a href="https://www.anaconda.com/products/distribution" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="anaconda"  height="30"/> </a> &nbsp;
-</p>
+</p> <a href="https://www.anaconda.com/products/distribution" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook"  height="45"/> </a> &nbsp; </p>
 
 
 
