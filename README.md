@@ -5,6 +5,8 @@
   <!-- (https://git.io/typing-svg) -->
 </p>
 
+<img align="right" alt="codingGuy" width="400" src="https://user-images.githubusercontent.com/78427456/218422081-c342b121-29eb-4c94-abaf-0afd5b04ed12.png">
+
 
 > My name is **Issa KABORE** and I'm a data scientist.  <br>
 > I'm excited about learning new things. 
