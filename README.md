@@ -10,7 +10,7 @@
 
 > My name is **Issa KABORE** and I'm a data scientist.  <br>
 > I'm excited about learning new things. 
-> You can see more about me on my [website](https://issa-kabore.github.io/).   <br>
+> You can see more about me on my [website](https://issa-kabore.framer.website/).   <br>
 > *Data science is not just statistics. It's a combination of skills in statistics, computing and data analysis.* - Anshul Joshi <br>
   
 
